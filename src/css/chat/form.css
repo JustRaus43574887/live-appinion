@@ -1,0 +1,6 @@
+#live-appinion-root > .widget-wrap > .expand-true > .send-form {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  margin-bottom: 20px;
+}

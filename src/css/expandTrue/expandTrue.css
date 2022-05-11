@@ -1,0 +1,16 @@
+#live-appinion-root > .widget-wrap > .expand-true {
+  width: 410px !important;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: content-box !important;
+}
+
+#live-appinion-root > .widget-wrap > .expand-true > .appinion-widget-body {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  overflow: auto;
+}
